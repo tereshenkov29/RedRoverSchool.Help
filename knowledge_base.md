@@ -2,6 +2,8 @@
 
 ## INTRO
 
+**База знаний** - это ссылки на полезные _бесплатные_ ресурсы, которые собирали и присылали студенты школы
+
 * **Хотите что-то добавить в БАЗУ ЗНАНИЙ?** Заполните форму - [https://forms.gle/JrUe2XAfNJbvs8Wv7](https://forms.gle/JrUe2XAfNJbvs8Wv7)
 * **Хотите поделиться ссылкой на БАЗУ ЗНАНИЙ?** Вот ссылка - [knowledge_base.md](https://github.com/tereshenkov29/RedRoverSchool.Help/blob/main/knowledge_base.md)
 * **Есть вопросы?** Напишите в личные сообщения в Slack
@@ -10,13 +12,13 @@
 
 ## Разделы БАЗЫ ЗНАНИЙ
 
-* Manual QA
-* Java
-* JavaScript
-* Python
-* SQL
-* HTML / CSS
-* Другое (Основы... / Git / API и т.п.)
+* [Manual QA](#manual-qa)
+* [Java](#java)
+* [JavaScript](#javascript)
+* [Python](#python)
+* [SQL](#sql)
+* [HTML / CSS](#html--css)
+* [Другое (Основы... / Git / API и т.п.)](#другое-основы--git--api-и-тп)
 
 ---
 
