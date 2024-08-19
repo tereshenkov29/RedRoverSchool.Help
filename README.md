@@ -47,6 +47,17 @@
 
 ## Ресурсы школы
 
+* Телеграм-канал RedRover.Info - https://t.me/RedRoverInfo / Тут собраны все чаты и другие ресурсы Red Rover сообщества.
+* Телеграм-канал RedRover.school - https://t.me/RedRoverSchool / основной Телеграм-канал школы, в котором есть актуальная ссылка-инвайт в Slack
+* Телеграм-канал CatchTheOffer - https://t.me/CatchTheOffer / обсуждение вопросов о поиске работы, проведение пробных интервью
+* Телеграм-канал RedRover.community - https://t.me/RedRoverCommunity
+* Телеграм-канал RedRover.Club - https://t.me/RedRoverClub / Чат, разделенный по географическому признаку
+* Телеграм-канал TheFocus.Tech - https://t.me/TheFocusTech / платные курсы
+* LinkedIn - https://www.linkedin.com/company/redrover-school
+* Facebook - https://www.facebook.com/groups/redrovercommunity
+* Slack
+* Discord
+
 
 ## Правила школы
 
