@@ -31,10 +31,10 @@
   * вы должны добавить календарь школы (как бы подписаться на него) (см. выше как это сделать)
   * в Slack под списком каналов и личных сообщений найдите секцию **Apps** и нажмите там на **Google Calendar**
   * на вкладке Home нажмите **Connect an account** - в браузере откроется страница авторизации в Google - выберите аккаунт, в календарь которого вы добавили календарь школы
-  * после успешной авторизации и возврата в Slack в опции Add another calendar выберите календарь школы RedRover.school
+  * после успешной авторизации и возврата в Slack в опции Add another calendar выберите календарь школы **RedRover.school**
   * настройте оповещения для календаря школы по кнопке Notification Preferences (например, установите опцию Event reminders sent... на 5 minutes before)
   * больше информации о настройках Google Calendar в Slack - тут [Google Calendar for Slack](https://slack.com/help/articles/206329808-Google-Calendar-for-Slack)
-  * 
+
 
 ## Общая информация о курсе
 
