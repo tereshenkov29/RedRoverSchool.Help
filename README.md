@@ -113,8 +113,8 @@
 
 * **Где хранится календарь школы?** - в Google Calendars
 * **Где найти ссылку на календарь школы?** - практически в каждом канале в Slack-пространстве школы в теме канала есть ссылка на документ, и в этом документе будет ссылка в том числе и на календарь
-  * [Постоянная ссылка на календарь школы](https://calendar.google.com/calendar/u/0/embed?src=1ttmuulfe455tsf7vgj4tldnto@group.calendar.google.com&ctz=America/Los_Angeles) (время событий - по времени Калифорнии)
-  * [Альтернативная ссылка](https://calendar.google.com/calendar/u/0/embed?src=1ttmuulfe455tsf7vgj4tldnto@group.calendar.google.com&ctz=Europe/Moscow) (время событий - по времени Москвы)
+  * [Постоянная ссылка на календарь школы](https://calendar.google.com/calendar/u/0/embed?src=1ttmuulfe455tsf7vgj4tldnto@group.calendar.google.com&ctz=America/Los_Angeles) (время событий - по времени Калифорнии) - ссылка заканчивается на _&ctz=America/Los_Angeles_
+  * [Альтернативная ссылка](https://calendar.google.com/calendar/u/0/embed?src=1ttmuulfe455tsf7vgj4tldnto@group.calendar.google.com&ctz=Europe/Moscow) (время событий - по времени Москвы) - ссылка заканчивается на _&ctz=Europe/Moscow_ - если нужно, то поменяйте этот атрибут в ссылке на другую локацию, чтобы видеть актуальное для вас время начала лекций
 * **Как добавить календарь себе?** (как бы подписаться на него) - откройте календарь по ссылке и нажмите кнопку *+GoogleCalendar* в правом нижнем углу
   * <img src="https://github.com/user-attachments/assets/8c33766e-9806-4468-810a-c8cff07f4ec6" alt="1928" width="200"/>
 * **Я могу редактировать события календаря?** - нет, редактирование недоступно для студентов школы
