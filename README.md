@@ -101,7 +101,7 @@
   * <img src="https://github.com/user-attachments/assets/dc849532-6a87-4719-8bca-e98bc81bb184" alt="image" width="200"/>
 * **Где можно найти информацию и ссылки по курсу?** - в Slack в теме основного канала потока есть ссылка на документ. Такие же ссылки и документы будут во всех тематических каналах
   * <img src="https://github.com/user-attachments/assets/2c1de440-737b-41e5-b1ae-167a73fb4fec" alt="image" width="200"/>
-* **Я в Slack-пространсве школы, но у меня не отображаются каналы по нужным мне предметам. Что делать?** - разверните меню для Channels, выберите Manage и Browse channels - а дальше нажмите Join напротив нужного вам канала
+* **Я в Slack-пространстве школы, но у меня не отображаются каналы по нужным мне предметам. Что делать?** - разверните меню для Channels, выберите Manage и Browse channels - а дальше нажмите Join напротив нужного вам канала
   * <img src="https://github.com/user-attachments/assets/3ee4824d-1ae3-44ed-992f-85b1d4e50604" alt="image" width="200"/>
 
 
