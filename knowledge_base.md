@@ -8,7 +8,6 @@
 * **Хотите поделиться ссылкой на БАЗУ ЗНАНИЙ?** Вот ссылка - [knowledge_base.md](https://github.com/tereshenkov29/RedRoverSchool.Help/blob/main/knowledge_base.md)
 * **Есть вопросы?** Напишите в личные сообщения в Slack
   * [Yakov Tereshenkov](https://redroverschool.slack.com/team/U05L4EHU2QK)
-  * [NadezhdaAbd](https://redroverschool.slack.com/team/U05BXGBB1PA)
 
 ## Разделы БАЗЫ ЗНАНИЙ
 
