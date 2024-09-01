@@ -81,3 +81,5 @@
 * https://losst.pro/42-komandy-linux-kotorye-vy-dolzhny-znat
 * https://www.learnqa.ru/tests
 * https://www.kanbanboardgame.com/ - игра-симулятор Kanban-процессов
+* https://code.mu/ - бесплатные учебники по разным IT направлениям (Верстка JavaScript Java SQL Git Internet и другие)
+* https://code-basics.com/ru - Бесплатные курсы программирования
