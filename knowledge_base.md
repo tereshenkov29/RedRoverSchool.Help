@@ -63,7 +63,7 @@
 
 ### HTML / CSS
 
-* https://flukeout.github.io/ (или https://topswagcode.com/xpath/)- здесь можно потренироваться или повторить/вспомнить CSS селекторы. 
+* https://flukeout.github.io/ или https://topswagcode.com/xpath/ - здесь можно потренироваться или повторить/вспомнить CSS селекторы. 
 * https://stepik.org/course/129827 - основы веб-вёрстки с HTML и CSS
 * https://stepik.org/course/38218 - Веб-разработка для начинающих: HTML и CSS
 
@@ -83,3 +83,4 @@
 * https://www.kanbanboardgame.com/ - игра-симулятор Kanban-процессов
 * https://code.mu/ - бесплатные учебники по разным IT направлениям (Верстка JavaScript Java SQL Git Internet и другие)
 * https://code-basics.com/ru - Бесплатные курсы программирования
+* https://learngitbranching.js.org/ - тренажер по Git
