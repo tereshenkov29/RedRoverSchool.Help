@@ -90,3 +90,24 @@
 * https://code.mu/ - бесплатные учебники по разным IT направлениям (Верстка JavaScript Java SQL Git Internet и другие)
 * https://code-basics.com/ru - Бесплатные курсы программирования
 * https://learngitbranching.js.org/ - тренажер по Git
+* Телеграм-каналы по поиску работы
+  * https://t.me/hiring_relocatin_hr_it
+  * https://t.me/workcamp
+  * https://t.me/yuniorapp
+  * https://t.me/qa_jobs
+  * https://t.me/qajoboffer
+  * https://t.me/qa_bad_company
+  * https://t.me/netology_project
+  * https://t.me/avito_career
+  * https://t.me/forallqa
+  * https://t.me/QA_rabota
+  * https://t.me/qa_chillout_jobs
+  * https://t.me/testerrjob
+  * https://t.me/qa_work
+  * https://t.me/remotejun
+  * https://t.me/jobforjunior
+  * https://t.me/resume_review
+  * https://t.me/Remoteit
+  * https://t.me/QAJuniorss
+  * https://t.me/qa_ru
+  * https://t.me/CVFlow
