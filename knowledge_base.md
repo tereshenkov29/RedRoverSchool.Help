@@ -67,6 +67,8 @@
 * https://sql-academy.org/ru - задачи по SQL по уровням сложности
 * https://www.sqlzoo.net/wiki/SQL_Tutorial - ресурс с теорией и заданиями по SQ
 * https://stepik.org/course/63054/ - курс с большим количеством практики и минимумом теории
+* https://sql-ex.ru/ - задачи по SQL
+* https://datalemur.com/sql-tutorial/intro-to-sql - SQL Tutorial
 
 ### HTML / CSS
 
