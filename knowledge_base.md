@@ -58,6 +58,7 @@
 * https://stepik.org/course/188355 - "Selenium на Python" от Алексея Коледачкина
 * https://stepik.org/course/58852/ - "Поколение Python": курс для начинающих Курс с кучей тренировочных задач, удобный как для самостоятельного изучения, так и для работы в группе в рамках внеурочной деятельности.
 * https://www.youtube.com/@tkhirianov/playlists - курс института, но очень на понятном языке. По пайтону есть и курс теории, и курс практики отделно
+* https://stepik.org/course/100707
 * Задачи и возможность практиковаться в написании кода (не только по Python):
   * https://pynative.com/python-exercises-with-solutions/
   * https://py.checkio.org/
